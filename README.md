@@ -9,7 +9,7 @@ python main.py
 MCP服务调用
 
 ```python
-python mctest.py
+python mcp_test.py
 ```
 
 
