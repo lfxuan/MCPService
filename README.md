@@ -12,6 +12,11 @@ MCP服务调用
 python mcp_test.py
 ```
 
+环境安装
+```bash 
+pip install -r requirements.txt
+```
+
 
 
 
